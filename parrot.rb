@@ -4,19 +4,6 @@ end
 
 
 
-def parrot(phrase)
-  puts "#{phrase}"
-end
-
-
-
-def parrot(phrase) 
-  puts "#{phrase}"
-end 
-
-def parrot(phrase) 
-  return "#{phrase}"
-end
 
 
 
